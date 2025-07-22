@@ -8,8 +8,117 @@
 </div>
 
 ###
+<div align="center">
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat\&logo=powershell\&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat\&logo=gimp\&logoColor=FFFFFF) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat\&logo=r\&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat\&logo=adobe%20illustrator\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat\&logo=css3\&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat\&logo=html5\&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat\&logo=javascript\&logoColor=%23F7DF1E) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat\&logo=Adobe%20Acrobat%20Reader\&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat\&logo=windows-terminal\&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat\&logo=SONARLINT\&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat\&logo=c%2B%2B\&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat\&logo=python\&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat\&logo=adobe%20photoshop\&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat\&logo=c\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat\&logo=github\&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat\&logo=blender\&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat\&logo=Apache%20Maven\&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat\&logo=git\&logoColor=white)
+### 🧠 Programming Languages 🧠
+
+</div>
+<div align="center">
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
+
+</div>
+
+### 
+
+<div align="center">
+
+### 🌐 Web Technologies & Development Tools 🌐
+
+</div>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat&logo=sonarlint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+
+</div>
+
+### 
+
+<div align="center">
+
+### 🗄️ Databases & Data Tools 🗄️
+
+</div>
+<div align="center">
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=flat&logo=oracle&logoColor=white)
+
+</div>
+
+### 
+
+<div align="center">
+
+### 🖥️ Operating Systems & Editors 🖥️
+
+</div>
+<div align="center">
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+</div>
+
+### 
+
+<div align="center">
+
+### 🤖 AI, Computer Vision & Hardware 🤖
+
+</div>
+<div align="center">
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+
+</div>
+
+### 
+
+<div align="center">
+
+### 🎨 Design & Creativity 🎨
+
+</div>
+<div align="center">
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=adobeacrobatreader&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+
+</div>
+
+### 
+
+<div align="center">
+
+### 🎧 Music & Media 🎧
+
+</div>
+<div align="center">
+
+![Rekordbox](https://img.shields.io/badge/Rekordbox-000000?style=flat&logo=rekordbox&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/Ableton%20Live-00FFCC?style=flat&logo=abletonlive&logoColor=black)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)
+
+</div>
 
 ###
 
