@@ -10,10 +10,7 @@
 ###
 <div align="center">
 
-### 💻 Personal Portfolio 💻
-
-[Link](https://pablotm.vercel.app)
-
+### 💻 [Personal Portfolio](https://pablotm.vercel.app) 💻
 
 ### 🧠 Programming Languages 🧠
 
